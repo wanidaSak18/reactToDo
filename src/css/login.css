@@ -1,0 +1,18 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+
+  .ReactModal__Content{
+    /* position: absolute;
+    top: 40px;
+    bottom: 40px; */
+    /* width: 30%; */
+    height: fit-content;
+  }
